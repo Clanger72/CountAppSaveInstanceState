@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountApp</string>
+    <string name="gire_a_tela">Gire a tela!</string>
+    <string name="count_initial">0</string>
+    <string name="button_count_up">Count Up</string>
+    <string name="button_count_down">Count Down</string>
+</resources>
